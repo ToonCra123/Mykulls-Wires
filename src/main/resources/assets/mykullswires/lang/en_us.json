@@ -1,0 +1,13 @@
+{
+  "itemGroup.mykullswires": "Example Mod Tab",
+  "block.mykullswires.example_block": "Example Block",
+  "item.mykullswires.example_item": "Example Item",
+
+  "mykullswires.configuration.title": "Mykulls Wires Configs",
+  "mykullswires.configuration.section.mykullswires.common.toml": "Mykulls Wires Configs",
+  "mykullswires.configuration.section.mykullswires.common.toml.title": "Mykulls Wires Configs",
+  "mykullswires.configuration.items": "Item List",
+  "mykullswires.configuration.logDirtBlock": "Log Dirt Block",
+  "mykullswires.configuration.magicNumberIntroduction": "Magic Number Text",
+  "mykullswires.configuration.magicNumber": "Magic Number"
+}
